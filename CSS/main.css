@@ -8,3 +8,26 @@ body {
     padding: 30px;
     margin-left: 45%;
 }
+.container {
+    border: 1px solid rgb(177, 169, 169);
+    border-radius: 5px;
+    display: flex;
+    height: 350px;
+    width: 500px;
+    font-family:sans-serif;
+    margin-left: 35%;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.email {
+
+}
+.signin {
+    font-size: 24pt;
+    position:relative;
+    margin-top: -5px;
+}
+.forgot_pw {
+    align-items: flex-end;
+}
