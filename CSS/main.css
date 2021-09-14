@@ -30,8 +30,8 @@ body {
     align-self: flex-end;
     margin-right: 30px;
     position: relative;
-    margin-top: 15px;
-    margin-bottom: -35px;
+    margin-top: px;
+    margin-bottom: -15px;
     font-size: 10pt;
 }
 input {
@@ -55,14 +55,22 @@ button {
     margin-left: 30px;
     margin-top: -30px;
     font-size: 10pt;
+    position: relative;
+    margin-bottom: -10px;
 }
 li {
     color:rgb(154, 146, 230);
     list-style-type: disc;
+    margin-top: -15px;
+    margin-bottom: -30px;
+    font-size: 10pt;
 }
 #pw {
     margin-left: 30px;
     font-size: 10pt;
+    position: relative;
+    margin-bottom: -12px;
+    margin-top: -20px;
 }
 .new {
     margin-left: 630px;
@@ -80,4 +88,8 @@ footer {
 }
 #create:hover{
     background-color: white;
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
 }
