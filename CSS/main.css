@@ -90,6 +90,24 @@ footer {
     background-color: white;
 }
 footer {
-    margin-top: 100px;
-    text-align: center;
+    margin-top: 50px;
+}
+.conditions {
+    font-size: 10pt;
+    padding-right: 30px;
+    margin-left: 40px;
+}
+.privacy {
+    font-size: 10pt;
+    padding-right: 30px;
+}
+.help {
+    font-size: 10pt;
+}
+.margin {
+    margin-top: 50px;
+}
+.copyright {
+    font-size: 10pt;
+    margin-left: 640px;
 }
