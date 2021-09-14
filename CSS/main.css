@@ -48,6 +48,9 @@ button {
     margin-left: 30px;
     margin-right: 30px;
 }
+#continue:hover {
+    background-color: #ff9900;
+}
 #email_login {
     margin-left: 30px;
     margin-top: -30px;
@@ -60,4 +63,21 @@ li {
 #pw {
     margin-left: 30px;
     font-size: 10pt;
+}
+.new {
+    margin-left: 630px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+}
+#create {
+    background-color: #e7e7e7;
+    margin-left: 580px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#create:hover{
+    background-color: white;
 }
